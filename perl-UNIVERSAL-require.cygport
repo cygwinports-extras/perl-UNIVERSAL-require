@@ -1,8 +1,8 @@
-CPAN_AUTHOR=mschwern
+CPAN_AUTHOR=neilb
 inherit perl
 
 NAME="perl-UNIVERSAL-require"
-VERSION=0.13
+VERSION=0.18
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl distribution UNIVERSAL-require"
