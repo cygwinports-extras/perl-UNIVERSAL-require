@@ -1,0 +1,12 @@
+CPAN_AUTHOR=mschwern
+inherit perl
+
+NAME="perl-UNIVERSAL-require"
+VERSION=0.13
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl distribution UNIVERSAL-require"
+DESCRIPTION="This module lets you require other modules where the module
+name is in a variable, something you cannot do with the require built-in."
+
+ARCH=noarch
